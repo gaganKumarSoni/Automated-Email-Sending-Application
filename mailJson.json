@@ -1,0 +1,12 @@
+{
+    "subject": "Test From Python",
+    "to": "",
+    "from": "",
+    "body": "Dear [[]], Your OTP is [[]].",
+    "mail_type": "plain",
+    "files": ,
+    "password": "",
+    "cc": "",
+    "smtp_host": "",
+    "port": ""
+}
